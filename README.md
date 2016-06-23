@@ -39,25 +39,15 @@ The tutorial targets a wide audience as computational systems biologists, molecu
 
 **9.00-09.30**  Introduction lecture (Y. Matsuoka)
 
-9.30-10.30  Hands on session  [CellDesigner](http://www.celldesigner.org/);  [PathVisio](http://www.pathvisio.org/) 
+9.30-10.30 Hands on session:  [CellDesigner](http://www.celldesigner.org/);  [PathVisio](http://www.pathvisio.org/) 
 
-_*10.30-11.00 Coffee*_
+_*10.30-11.00 Coffee break*_
 
 **Session 2: Pathway databases and networks resources** 
 
-11.00-11.30 Introduction lecture (R. Haw)
+**11.00-11.30** Introduction lecture (R. Haw)
 
-11.30-13.30
-
-Hands on session (R. Haw / L. Licata / I. Kuperstein)
-
-[Reactome](http://www.reactome.org/)
-
-[Wiki Pathways](http://www.wikipathways.org/)
-
-[ACSN](https://acsn.curie.fr/) and [NaviCell](https://navicell.curie.fr/) 
-
-[SIGNOR](https://en.wikipedia.org/wiki/Signor) 
+**11.30-13.30** Hands on session: [Reactome](http://www.reactome.org/) ; [Wiki Pathways](http://www.wikipathways.org/) ; [ACSN](https://acsn.curie.fr/) and [NaviCell](https://navicell.curie.fr/) ; [SIGNOR](https://en.wikipedia.org/wiki/Signor) 
 
 *13.30-14.30 Lunch*
 
