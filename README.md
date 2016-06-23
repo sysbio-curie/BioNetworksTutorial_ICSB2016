@@ -1,6 +1,6 @@
-**Biological network maps: from construction to data analysis and applications in research and clinics**
+**Biological network maps tutorial: from construction to data analysis and applications in research and clinics**
 
-[ICSB 2016](http://www.icsb2016barcelona.org/) satelite tutorial
+[ICSB 2016](http://www.icsb2016barcelona.org/) satelite
 
 15 September, Barcelona
 
