@@ -31,18 +31,14 @@ The tutorial targets a wide audience as computational systems biologists, molecu
 
 16-21.09		[ICSB](http://www.icsb2016barcelona.org/) main conference
 
-**Session 1:** Tools for network construction
+**Program**
 
-#######9.00-09.30
+**Session 1:Tools for network construction** 
 
-Introduction lecture (U. Matsuoka)
+9.00-09.30  Introduction lecture (U. Matsuoka)
 
-9.30-10.30   	
-
-Hands on session (U. Matsuoka / A. Mazein)
-
+9.30-10.30  Hands on session (U. Matsuoka / A. Mazein)
   [CellDesigner](http://www.celldesigner.org/) 
-
   [PathVisio](http://www.pathvisio.org/) 
 
 *10.30-11.00 Coffee*
