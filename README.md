@@ -1,5 +1,6 @@
 **Biological network maps tutorial: from construction to data analysis and applications in research and clinics**
 ICSB2016 satelite 
+
 15 September, Barcelona
 Venue: TBA
 Time: 9.00-19.00
@@ -18,11 +19,7 @@ To overcome the robustness of cell signalling network, disease treatment should 
 
 **Intended audience**
 
-The tutorial targets a wide audience as computational systems biologists, molecular and cell biologists, clinicians, who are interested in update and learning of approaches in network biology and related analysis tools, including visualization and analysis of multi-level omics data in the context of biological networks. The presenters are computational systems biologists that will share their experience and suggest simple and proven scenarios on integration of the tools into basic and clinical research.
-
-No previous experience or computational background is required to attend the workshop.
-
-The tutorial will include hands-on sessions; the audience is advised to bring the laptop computers.
+The tutorial targets a wide audience as computational systems biologists, molecular and cell biologists, clinicians, who are interested in update and learning of approaches in network biology and related analysis tools, including visualization and analysis of multi-level omics data in the context of biological networks. The presenters are computational systems biologists that will share their experience and suggest simple and proven scenarios on integration of the tools into basic and clinical research. No previous experience or computational background is required to attend the workshop. The tutorial will include hands-on sessions; the audience is advised to bring the laptop computers.
 
 **Important dates**
 
@@ -36,7 +33,7 @@ The tutorial will include hands-on sessions; the audience is advised to bring th
 
 **Session 1:** Tools for network construction
 
-9.00-09.30
+## 9.00-09.30
 
   Introduction lecture (U. Matsuoka)
 
