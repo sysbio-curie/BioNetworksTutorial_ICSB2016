@@ -51,23 +51,13 @@ _*10.30-11.00 Coffee break*_
 
 *13.30-14.30 Lunch*
 
-**Session 3:** Tools for data visualization and analysis in the context of networks (part 1)
+**Session 3: Tools for data visualization and analysis in the context of networks (part 1)** 
 
-14.30-15.00
+**14.30-15.00** Introduction lecture (T. Freeman)
 
-Introduction lecture (T. Freeman)
+**15.00-16.30** Hands on session:[BiNoM](https://binom.curie.fr/): [DEDAL](http://bioinfo-out.curie.fr/projects/dedal/) and [OCSANA](http://bioinfo-out.curie.fr/projects/ocsana/) ; [Cytoscape: Omic Analysis Collection](http://apps.cytoscape.org/apps/omicsanalysiscollection) ; Pathways enrichment: [GSEA](http://www.broadinstitute.org/gsea), [ROMA](https://github.com/sysbio-curie/Roma) 
 
-15.00-16.30
-
-Hands on session (I. Kuperstein/ E. Barillot/ L. Licata)
-
-[BiNoM](https://binom.curie.fr/): [DEDAL](http://bioinfo-out.curie.fr/projects/dedal/), [OCSANA](http://bioinfo-out.curie.fr/projects/ocsana/)
-
-[Cytoscape: Omic Analysis Collection](http://apps.cytoscape.org/apps/omicsanalysiscollection)
-
-Pathways enrichment: [GSEA](http://www.broadinstitute.org/gsea), [ROMA](https://github.com/sysbio-curie/Roma) 
-
-*16.30-17.00 Coffee*
+*16.30-17.00 Coffee break*
 
 **Session 4:** Tools for data visualization and analysis in the context of networks (part 2)
 
