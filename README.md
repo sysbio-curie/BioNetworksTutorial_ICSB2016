@@ -113,6 +113,10 @@ CellDesigner is a structured diagram editor for drawing gene-regulatory and bioc
 
 [PathVisio](http://www.pathvisio.org/) 
 
+PathVisio is a free open-source pathway analysis and drawing software. It allows you to draw, edit and analyse biological pathways. PathVisio provides a basic set of features for pathway drawing, analysis and visualization. Additional features are available as plugins. You can find a list of all available plugins in the plugin repository. Plugins are available for pathway building, pathway analysis, import/export functionality, data visualization or data integration.
+
+** **
+
 **Contacts**
 
 inna.kuperstein@curie.fr
