@@ -127,9 +127,13 @@ WikiPathways is an open, collaborative platform dedicated to the curation of bio
 ACSN is a pathway database and a web-based environment that contains  interconnected cancer-related signalling network maps. molecular mechanisms involved in cancer are represented in the form of comprehensive interconnected maps created using systems biology standards, making these maps amenable for computational analysis. ACSN aims to collect, organize and graphically represent non-disease molecular mechanisms lying behind well defined cancer hallmarks (Hanahan and Weinberg). ACSN concentrates on exhaustive representation of molecular mechanisms that are frequently dysregulated in cancer such as cell cycle, DNA repair, cell death, survival, immune response signalling, telomere maintenance and others.
 
 [NaviCell](https://navicell.curie.fr/) 
+
 NaviCell is a web-based environment for exploiting large maps of molecular interactions, created in CellDesigner. It is characterized by a combination of three essential features: (1) efficient map browsing based on Google Maps; (2) semantic zooming for viewing different levels of details or of abstraction of the map and (3) integrated web-based blog for collecting community feedback. NaviCell Web Service allows mapping multilevel high-throughput data onto biological network maps, browsable with NaviCell.
 
 [SIGNOR](https://en.wikipedia.org/wiki/Signor) 
+
+The SIGnaling Network Open Resource, SIGNOR is a database of causal relationships between biological entities. It was was developed to support such a strategy by providing a scaffold of prior experimental evidence of causal relationships between biological entities. The information captured in SIGNOR can be represented as a signed directed graph illustrating the activation/inactivation relationships between signalling entities. Each entry is associated to the post-translational modifications that cause the activation/inactivation of the target proteins.
+
 ** **
 
 **Contacts**
