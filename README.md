@@ -25,22 +25,22 @@ The tutorial targets a wide audience as computational systems biologists, molecu
 
 **Important dates**
 
-18 July	      Early bird registration deadline ([Register here](http://www.icsb2016barcelona.org/registration/registration/))
+**18.07**       Early bird registration deadline ([Register here](http://www.icsb2016barcelona.org/registration/registration/))
 
-05 September	    Regular registration deadline ([Register here](http://www.icsb2016barcelona.org/registration/registration/))
+**05.09**       Regular registration deadline ([Register here](http://www.icsb2016barcelona.org/registration/registration/))
 
-15 September      Biological network map tutorial
+**15.09**       Biological network map tutorial
 
-16-21 September    [ICSB](http://www.icsb2016barcelona.org/) main conference
+**16-21.09**    [ICSB](http://www.icsb2016barcelona.org/) main conference
 
 **Program**
 
 **Session 1: Tools for network construction** 
 
-9.00-09.30  Introduction lecture (Y. Matsuoka)
+**9.00-09.30**  Introduction lecture (Y. Matsuoka)
 
 9.30-10.30  Hands on session (U. Matsuoka / A. Mazein)
-  [CellDesigner](http://www.celldesigner.org/) 
+  [CellDesigner](http://www.celldesigner.org/); 
   [PathVisio](http://www.pathvisio.org/) 
 
 *10.30-11.00 Coffee*
