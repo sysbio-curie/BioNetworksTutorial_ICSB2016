@@ -1,9 +1,7 @@
 **Biological network maps tutorial: from construction to data analysis and applications in research and clinics**
 
 15 September, Barcelona
-
 Venue: TBA
-
 Time: 9.00-19.00
 
 **Motivation**
