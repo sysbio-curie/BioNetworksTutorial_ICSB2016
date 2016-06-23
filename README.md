@@ -115,6 +115,20 @@ CellDesigner is a structured diagram editor for drawing gene-regulatory and bioc
 
 PathVisio is a free open-source pathway analysis and drawing software. It allows you to draw, edit and analyse biological pathways. PathVisio provides a basic set of features for pathway drawing, analysis and visualization. Additional features are available as plugins. You can find a list of all available plugins in the plugin repository. Plugins are available for pathway building, pathway analysis, import/export functionality, data visualization or data integration.
 
+[Reactome](http://www.reactome.org/)
+Reactome is a free, open-source, curated and peer reviewed pathway database. Our goal is to provide intuitive bioinformatics tools for the visualization, interpretation and analysis of pathway knowledge to support basic research, genome analysis, modeling, systems biology and education. 
+
+[Wiki Pathways](http://www.wikipathways.org/)
+
+WikiPathways is an open, collaborative platform dedicated to the curation of biological pathways. WikiPathways thus presents a new model for pathway databases that enhances and complements ongoing efforts, such as KEGG, Reactome and Pathway Commons. The open, public approach of WikiPathways allows for broader participation by the entire community, ranging from students to senior experts in each field. This approach also shifts the bulk of peer review, editorial curation, and maintenance to the community.
+
+[ACSN](https://acsn.curie.fr/)  
+
+ACSN is a pathway database and a web-based environment that contains  interconnected cancer-related signalling network maps. molecular mechanisms involved in cancer are represented in the form of comprehensive interconnected maps created using systems biology standards, making these maps amenable for computational analysis. ACSN aims to collect, organize and graphically represent non-disease molecular mechanisms lying behind well defined cancer hallmarks (Hanahan and Weinberg). ACSN concentrates on exhaustive representation of molecular mechanisms that are frequently dysregulated in cancer such as cell cycle, DNA repair, cell death, survival, immune response signalling, telomere maintenance and others.
+
+[NaviCell](https://navicell.curie.fr/) 
+
+[SIGNOR](https://en.wikipedia.org/wiki/Signor) 
 ** **
 
 **Contacts**
