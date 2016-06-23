@@ -107,32 +107,19 @@ Participants are encouraged to download didactic materials and install essential
 
 **Tools description**
 
-[CellDesigner](http://www.celldesigner.org/)
+[CellDesigner](http://www.celldesigner.org/) is a structured diagram editor for drawing gene-regulatory and biochemical networks. Networks are drawn based on the process diagram, with graphical notation system, and are stored using the Systems Biology Markup Language (SBML), a standard for representing models of biochemical and gene-regulatory networks. Networks are able to link with simulation and other analysis packages through Systems Biology Workbench (SBW).
 
-CellDesigner is a structured diagram editor for drawing gene-regulatory and biochemical networks. Networks are drawn based on the process diagram, with graphical notation system, and are stored using the Systems Biology Markup Language (SBML), a standard for representing models of biochemical and gene-regulatory networks. Networks are able to link with simulation and other analysis packages through Systems Biology Workbench (SBW).
+[PathVisio](http://www.pathvisio.org/) is a free open-source pathway analysis and drawing software. It allows you to draw, edit and analyse biological pathways. PathVisio provides a basic set of features for pathway drawing, analysis and visualization. Additional features are available as plugins. You can find a list of all available plugins in the plugin repository. Plugins are available for pathway building, pathway analysis, import/export functionality, data visualization or data integration.
 
-[PathVisio](http://www.pathvisio.org/) 
+[Reactome](http://www.reactome.org/) is a free, open-source, curated and peer reviewed pathway database. Our goal is to provide intuitive bioinformatics tools for the visualization, interpretation and analysis of pathway knowledge to support basic research, genome analysis, modeling, systems biology and education. 
 
-PathVisio is a free open-source pathway analysis and drawing software. It allows you to draw, edit and analyse biological pathways. PathVisio provides a basic set of features for pathway drawing, analysis and visualization. Additional features are available as plugins. You can find a list of all available plugins in the plugin repository. Plugins are available for pathway building, pathway analysis, import/export functionality, data visualization or data integration.
+[Wiki Pathways](http://www.wikipathways.org/) is an open, collaborative platform dedicated to the curation of biological pathways. WikiPathways thus presents a new model for pathway databases that enhances and complements ongoing efforts, such as KEGG, Reactome and Pathway Commons. The open, public approach of WikiPathways allows for broader participation by the entire community, ranging from students to senior experts in each field. This approach also shifts the bulk of peer review, editorial curation, and maintenance to the community.
 
-[Reactome](http://www.reactome.org/)
-Reactome is a free, open-source, curated and peer reviewed pathway database. Our goal is to provide intuitive bioinformatics tools for the visualization, interpretation and analysis of pathway knowledge to support basic research, genome analysis, modeling, systems biology and education. 
+[ACSN](https://acsn.curie.fr/)  is a pathway database and a web-based environment that contains  interconnected cancer-related signalling network maps. molecular mechanisms involved in cancer are represented in the form of comprehensive interconnected maps created using systems biology standards, making these maps amenable for computational analysis. ACSN aims to collect, organize and graphically represent non-disease molecular mechanisms lying behind well defined cancer hallmarks (Hanahan and Weinberg). ACSN concentrates on exhaustive representation of molecular mechanisms that are frequently dysregulated in cancer such as cell cycle, DNA repair, cell death, survival, immune response signalling, telomere maintenance and others.
 
-[Wiki Pathways](http://www.wikipathways.org/)
+[NaviCell](https://navicell.curie.fr/) is a web-based environment for exploiting large maps of molecular interactions, created in CellDesigner. It is characterized by a combination of three essential features: (1) efficient map browsing based on Google Maps; (2) semantic zooming for viewing different levels of details or of abstraction of the map and (3) integrated web-based blog for collecting community feedback. NaviCell Web Service allows mapping multilevel high-throughput data onto biological network maps, browsable with NaviCell.
 
-WikiPathways is an open, collaborative platform dedicated to the curation of biological pathways. WikiPathways thus presents a new model for pathway databases that enhances and complements ongoing efforts, such as KEGG, Reactome and Pathway Commons. The open, public approach of WikiPathways allows for broader participation by the entire community, ranging from students to senior experts in each field. This approach also shifts the bulk of peer review, editorial curation, and maintenance to the community.
-
-[ACSN](https://acsn.curie.fr/)  
-
-ACSN is a pathway database and a web-based environment that contains  interconnected cancer-related signalling network maps. molecular mechanisms involved in cancer are represented in the form of comprehensive interconnected maps created using systems biology standards, making these maps amenable for computational analysis. ACSN aims to collect, organize and graphically represent non-disease molecular mechanisms lying behind well defined cancer hallmarks (Hanahan and Weinberg). ACSN concentrates on exhaustive representation of molecular mechanisms that are frequently dysregulated in cancer such as cell cycle, DNA repair, cell death, survival, immune response signalling, telomere maintenance and others.
-
-[NaviCell](https://navicell.curie.fr/) 
-
-NaviCell is a web-based environment for exploiting large maps of molecular interactions, created in CellDesigner. It is characterized by a combination of three essential features: (1) efficient map browsing based on Google Maps; (2) semantic zooming for viewing different levels of details or of abstraction of the map and (3) integrated web-based blog for collecting community feedback. NaviCell Web Service allows mapping multilevel high-throughput data onto biological network maps, browsable with NaviCell.
-
-[SIGNOR](https://en.wikipedia.org/wiki/Signor) 
-
-The SIGnaling Network Open Resource, SIGNOR is a database of causal relationships between biological entities. It was was developed to support such a strategy by providing a scaffold of prior experimental evidence of causal relationships between biological entities. The information captured in SIGNOR can be represented as a signed directed graph illustrating the activation/inactivation relationships between signalling entities. Each entry is associated to the post-translational modifications that cause the activation/inactivation of the target proteins.
+[SIGNOR](https://en.wikipedia.org/wiki/Signor) The SIGnaling Network Open Resource, is a database of causal relationships between biological entities. It was was developed to support such a strategy by providing a scaffold of prior experimental evidence of causal relationships between biological entities. The information captured in SIGNOR can be represented as a signed directed graph illustrating the activation/inactivation relationships between signalling entities. Each entry is associated to the post-translational modifications that cause the activation/inactivation of the target proteins.
 
 [BiNoM](https://binom.curie.fr/)
 
