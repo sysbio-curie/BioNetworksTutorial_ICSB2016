@@ -1,4 +1,4 @@
-Biological network maps: from construction to data analysis and applications in research and clinics
+Biological network maps tutorial: from construction to data analysis and applications in research and clinics
 15 September 
 Barcelona
 Venue: TBA
