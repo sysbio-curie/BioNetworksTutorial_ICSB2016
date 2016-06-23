@@ -3,11 +3,8 @@
 **15 September, Barcelona**
 
  **Venue: TBA**
-
 **Time: 9.00-19.00**
-
 **Biological network maps tutorial: from construction to data analysis and applications in research and clinics**
-
 **Motivation**
 
 Today's biology is largely data-driven, thanks to high-throughput technologies that allow investigating molecular and cellular aspects of life on large scales. Making biological sense out of the amount of produced data requires their interpretation in the context cellular and physiological processes. However the knowledge about molecular signalling mechanisms is dispersed in thousands of publications, precluding application of methods and algorithms developed in the field of bioinformatics and systems biology. There is a need in formalized compilation of biological knowledge in a computer-readable form, as bio-molecular networks.
