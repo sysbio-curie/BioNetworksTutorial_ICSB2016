@@ -33,9 +33,9 @@ The tutorial targets a wide audience as computational systems biologists, molecu
 
 **Session 1:** Tools for network construction
 
-___9.00-09.30
+#######9.00-09.30
 
-  Introduction lecture (U. Matsuoka)
+Introduction lecture (U. Matsuoka)
 
 9.30-10.30   	
 
