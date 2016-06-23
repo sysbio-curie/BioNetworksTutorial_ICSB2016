@@ -2,7 +2,9 @@
 ICSB2016 satelite 
 
 15 September, Barcelona
+
 Venue: TBA
+
 Time: 9.00-19.00
 
 **Motivation**
@@ -23,19 +25,19 @@ The tutorial targets a wide audience as computational systems biologists, molecu
 
 **Important dates**
 
-18.07		Early bird registration deadline ([Register here](http://www.icsb2016barcelona.org/registration/registration/))
+18.07		    Early bird registration deadline ([Register here](http://www.icsb2016barcelona.org/registration/registration/))
 
-05.09		Regular registration deadline ([Register here](http://www.icsb2016barcelona.org/registration/registration/))
+05.09		    Regular registration deadline ([Register here](http://www.icsb2016barcelona.org/registration/registration/))
 
-15.09		Biological network map tutorial
+15.09       Biological network map tutorial
 
-16-21.09		[ICSB](http://www.icsb2016barcelona.org/) main conference
+16-21.09    [ICSB](http://www.icsb2016barcelona.org/) main conference
 
 **Program**
 
-**Session 1:Tools for network construction** 
+**Session 1: Tools for network construction** 
 
-9.00-09.30  Introduction lecture (U. Matsuoka)
+9.00-09.30  Introduction lecture (Y. Matsuoka)
 
 9.30-10.30  Hands on session (U. Matsuoka / A. Mazein)
   [CellDesigner](http://www.celldesigner.org/) 
@@ -43,11 +45,9 @@ The tutorial targets a wide audience as computational systems biologists, molecu
 
 *10.30-11.00 Coffee*
 
-**Session 2:** Pathway databases and networks resources
+**Session 2: Pathway databases and networks resources** 
 
-11.00-11.30
-
-Introduction lecture (R. Haw)
+11.00-11.30 Introduction lecture (R. Haw)
 
 11.30-13.30
 
