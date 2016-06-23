@@ -134,6 +134,20 @@ NaviCell is a web-based environment for exploiting large maps of molecular inter
 
 The SIGnaling Network Open Resource, SIGNOR is a database of causal relationships between biological entities. It was was developed to support such a strategy by providing a scaffold of prior experimental evidence of causal relationships between biological entities. The information captured in SIGNOR can be represented as a signed directed graph illustrating the activation/inactivation relationships between signalling entities. Each entry is associated to the post-translational modifications that cause the activation/inactivation of the target proteins.
 
+[BiNoM](https://binom.curie.fr/)
+
+[Cytoscape: Omic Analysis Collection](http://apps.cytoscape.org/apps/omicsanalysiscollection)
+
+[GSEA](http://www.broadinstitute.org/gsea)
+
+[ROMA](https://github.com/sysbio-curie/Roma) 
+
+[MINERVA](http://r3lab.uni.lu/web/minerva-website/) 
+
+[BioLayout Express3D](http://www.biolayout.org/)
+
+[Garuda platform](http://www.garuda-alliance.org/)
+
 ** **
 
 **Contacts**
