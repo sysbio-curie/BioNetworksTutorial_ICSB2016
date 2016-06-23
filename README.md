@@ -36,23 +36,23 @@ The tutorial will include hands-on sessions; the audience is advised to bring th
 
 16-21.09		[ICSB](http://www.icsb2016barcelona.org/) main conference
 
-**Session 1:**** Tools for network construction**
+**Session 1:** Tools for network construction**
 
 9.00-09.30
 
-Introduction lecture (U. Matsuoka)
+  Introduction lecture (U. Matsuoka)
 
 9.30-10.30   	
 
 Hands on session (U. Matsuoka / A. Mazein)
 
-[CellDesigner](http://www.celldesigner.org/) 
+  [CellDesigner](http://www.celldesigner.org/) 
 
-[PathVisio](http://www.pathvisio.org/) 
+  [PathVisio](http://www.pathvisio.org/) 
 
 *10.30-11.00 Coffee*
 
-**Session 2:**** Pathway databases and networks resources**
+**Session 2:** Pathway databases and networks resources**
 
 11.00-11.30
 
