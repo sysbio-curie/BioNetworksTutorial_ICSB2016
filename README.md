@@ -63,7 +63,7 @@ _*10.30-11.00 Coffee break*_
 
 **17.00-18.30** Hands on session: [MINERVA](http://r3lab.uni.lu/web/minerva-website/) ; [BioLayout Express3D](http://www.biolayout.org/); [Garuda platform](http://www.garuda-alliance.org/)
 
-**18.30-19.00** Closing lecture: networks applications in clinics
+**18.30-19.00** Closing lecture: networks applications in clinics (E. Barillot ; M. Ostaszewski ; A. Mazein)
 
 ** **
 **Downloadable materials**
@@ -111,3 +111,6 @@ inna.kuperstein@curie.fr
 
 emmanuel.barillot@curie.fr
 
+** **
+
+**Tools description**
