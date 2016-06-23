@@ -8,7 +8,7 @@
 
 ** **
 
-**Session 1:**** Tools for network construction**
+**Session 1:** **Tools for network construction**
 
 9.00-09.30
 Introduction lecture (U. Matsuoka)
@@ -26,7 +26,7 @@ PathVisio (30 min)
 
  
 
-**Session 2:**** Pathway databases and networks resources**
+**Session 2:** ** Pathway databases and networks resources**
 
 11.00-11.30
 Introduction lecture (R. Haw)
@@ -48,7 +48,7 @@ SIGNOR (30 min)
 
 ** **
 
-**Session 3:**** Tools for data visualization and analysis in the context of networks (part 1)**
+**Session 3:** ** Tools for data visualization and analysis in the context of networks (part 1)**
 
 14.30-15.00
 
@@ -56,7 +56,7 @@ Introduction lecture (T. Freeman)
 
 15.00-16.30
 
-        	Hands on session (I. Kuperstein/ E. Barillot/ L. Licata)
+Hands on session (I. Kuperstein/ E. Barillot/ L. Licata)
 
 BiNoM: DEDAL, OCSANA (30 min)
 
@@ -70,7 +70,7 @@ Pathways enrichment: GSEA, ROMA (30 min)
 
  
 
-**Session 4:**** Tools for data visualization and analysis in the context of networks (part 2)**
+**Session 4:** ** Tools for data visualization and analysis in the context of networks (part 2)**
 
  
 
