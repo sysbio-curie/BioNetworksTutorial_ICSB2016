@@ -25,13 +25,13 @@ The tutorial targets a wide audience as computational systems biologists, molecu
 
 **Important dates**
 
-18.07		    Early bird registration deadline ([Register here](http://www.icsb2016barcelona.org/registration/registration/))
+18 July	      Early bird registration deadline ([Register here](http://www.icsb2016barcelona.org/registration/registration/))
 
-05.09		    Regular registration deadline ([Register here](http://www.icsb2016barcelona.org/registration/registration/))
+05 September	    Regular registration deadline ([Register here](http://www.icsb2016barcelona.org/registration/registration/))
 
-15.09       Biological network map tutorial
+15 September      Biological network map tutorial
 
-16-21.09    [ICSB](http://www.icsb2016barcelona.org/) main conference
+16-21 September    [ICSB](http://www.icsb2016barcelona.org/) main conference
 
 **Program**
 
