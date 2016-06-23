@@ -29,7 +29,7 @@ The tutorial targets a wide audience as computational systems biologists, molecu
 
 **05.09**       Regular registration deadline ([Register here](http://www.icsb2016barcelona.org/registration/registration/))
 
-**15.09**       Biological network map tutorial
+**15.09         Biological network map tutorial**   
 
 **16-21.09**    [ICSB](http://www.icsb2016barcelona.org/) main conference
 ** **
@@ -39,7 +39,7 @@ The tutorial targets a wide audience as computational systems biologists, molecu
 
 **9.00-09.30**  Introduction lecture (Y. Matsuoka)
 
-**9.30-10.30** Hands on session:  [CellDesigner](http://www.celldesigner.org/);  [PathVisio](http://www.pathvisio.org/) 
+**9.30-10.30** Hands on session:  [CellDesigner](http://www.celldesigner.org/) ;  [PathVisio](http://www.pathvisio.org/) 
 
 _*10.30-11.00 Coffee break*_
 
@@ -114,3 +114,7 @@ emmanuel.barillot@curie.fr
 ** **
 
 **Tools description**
+[CellDesigner](http://www.celldesigner.org/)
+CellDesigner is a structured diagram editor for drawing gene-regulatory and biochemical networks. Networks are drawn based on the process diagram, with graphical notation system, and are stored using the Systems Biology Markup Language (SBML), a standard for representing models of biochemical and gene-regulatory networks. Networks are able to link with simulation and other analysis packages through Systems Biology Workbench (SBW).
+
+[PathVisio](http://www.pathvisio.org/) 
