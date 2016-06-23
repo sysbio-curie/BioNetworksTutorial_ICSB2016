@@ -22,7 +22,7 @@ To overcome the robustness of cell signalling network, disease treatment should 
 **Intended audience**
 
 The tutorial targets a wide audience as computational systems biologists, molecular and cell biologists, clinicians, who are interested in update and learning of approaches in network biology and related analysis tools, including visualization and analysis of multi-level omics data in the context of biological networks. The presenters are computational systems biologists that will share their experience and suggest simple and proven scenarios on integration of the tools into basic and clinical research. No previous experience or computational background is required to attend the workshop. The tutorial will include hands-on sessions; the audience is advised to bring the laptop computers.
-
+** **
 **Important dates**
 
 **18.07**       Early bird registration deadline ([Register here](http://www.icsb2016barcelona.org/registration/registration/))
@@ -32,7 +32,7 @@ The tutorial targets a wide audience as computational systems biologists, molecu
 **15.09**       Biological network map tutorial
 
 **16-21.09**    [ICSB](http://www.icsb2016barcelona.org/) main conference
-
+** **
 **Program**
 
 **Session 1: Tools for network construction** 
@@ -55,7 +55,7 @@ _*10.30-11.00 Coffee break*_
 
 **14.30-15.00** Introduction lecture (T. Freeman)
 
-**15.00-16.30** Hands on session:[BiNoM](https://binom.curie.fr/): [DEDAL](http://bioinfo-out.curie.fr/projects/dedal/) and [OCSANA](http://bioinfo-out.curie.fr/projects/ocsana/) ; [Cytoscape: Omic Analysis Collection](http://apps.cytoscape.org/apps/omicsanalysiscollection) ; [GSEA](http://www.broadinstitute.org/gsea), [ROMA](https://github.com/sysbio-curie/Roma) 
+**15.00-16.30** Hands on session: [BiNoM](https://binom.curie.fr/): [DEDAL](http://bioinfo-out.curie.fr/projects/dedal/) and [OCSANA](http://bioinfo-out.curie.fr/projects/ocsana/) ; [Cytoscape: Omic Analysis Collection](http://apps.cytoscape.org/apps/omicsanalysiscollection) ; [GSEA](http://www.broadinstitute.org/gsea), [ROMA](https://github.com/sysbio-curie/Roma) 
 
 *16.30-17.00 Coffee break*
 
@@ -65,10 +65,12 @@ _*10.30-11.00 Coffee break*_
 
 **18.30-19.00** Closing lecture: networks applications in clinics
 
+** **
 **Downloadable materials**
 
 Participants are encouraged to download didactic materials and install essential software before the tutorial.
 
+** **
 **Organizing committee**
 
 **Presenters and tutors**
