@@ -39,7 +39,7 @@ The tutorial targets a wide audience as computational systems biologists, molecu
 
 **9.00-09.30**  Introduction lecture (Y. Matsuoka)
 
-9.30-10.30 Hands on session:  [CellDesigner](http://www.celldesigner.org/);  [PathVisio](http://www.pathvisio.org/) 
+**9.30-10.30** Hands on session:  [CellDesigner](http://www.celldesigner.org/);  [PathVisio](http://www.pathvisio.org/) 
 
 _*10.30-11.00 Coffee break*_
 
@@ -55,25 +55,15 @@ _*10.30-11.00 Coffee break*_
 
 **14.30-15.00** Introduction lecture (T. Freeman)
 
-**15.00-16.30** Hands on session:[BiNoM](https://binom.curie.fr/): [DEDAL](http://bioinfo-out.curie.fr/projects/dedal/) and [OCSANA](http://bioinfo-out.curie.fr/projects/ocsana/) ; [Cytoscape: Omic Analysis Collection](http://apps.cytoscape.org/apps/omicsanalysiscollection) ; Pathways enrichment: [GSEA](http://www.broadinstitute.org/gsea), [ROMA](https://github.com/sysbio-curie/Roma) 
+**15.00-16.30** Hands on session:[BiNoM](https://binom.curie.fr/): [DEDAL](http://bioinfo-out.curie.fr/projects/dedal/) and [OCSANA](http://bioinfo-out.curie.fr/projects/ocsana/) ; [Cytoscape: Omic Analysis Collection](http://apps.cytoscape.org/apps/omicsanalysiscollection) ; [GSEA](http://www.broadinstitute.org/gsea), [ROMA](https://github.com/sysbio-curie/Roma) 
 
 *16.30-17.00 Coffee break*
 
-**Session 4:** Tools for data visualization and analysis in the context of networks (part 2)
+**Session 4: Tools for data visualization and analysis in the context of networks (part 2)**
 
-17.00-18.30
+**17.00-18.30** Hands on session: [MINERVA](http://r3lab.uni.lu/web/minerva-website/) ; [BioLayout Express3D](http://www.biolayout.org/); [Garuda platform](http://www.garuda-alliance.org/)
 
-Hands on session (M. Ostaszewski / T. Freeman / U. Matsuoka)
-
-[MINERVA](http://r3lab.uni.lu/web/minerva-website/)
-
-[BioLayout Express3D](http://www.biolayout.org/)
-
-[Garuda platform](http://www.garuda-alliance.org/)
-
-18.30-19.00
-
-Closing lecture: networks applications in clinics (E. Barillot/A. Mazein/ M. Ostaszewski) 
+**18.30-19.00** Closing lecture: networks applications in clinics
 
 **Downloadable materials**
 
