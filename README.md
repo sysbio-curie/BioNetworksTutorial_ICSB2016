@@ -39,11 +39,9 @@ The tutorial targets a wide audience as computational systems biologists, molecu
 
 **9.00-09.30**  Introduction lecture (Y. Matsuoka)
 
-9.30-10.30  Hands on session (U. Matsuoka / A. Mazein)
-  [CellDesigner](http://www.celldesigner.org/); 
-  [PathVisio](http://www.pathvisio.org/) 
+9.30-10.30  Hands on session  [CellDesigner](http://www.celldesigner.org/);  [PathVisio](http://www.pathvisio.org/) 
 
-*10.30-11.00 Coffee*
+_*10.30-11.00 Coffee*_
 
 **Session 2: Pathway databases and networks resources** 
 
