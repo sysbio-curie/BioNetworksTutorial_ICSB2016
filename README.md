@@ -105,6 +105,14 @@ Participants are encouraged to download didactic materials and install essential
 
 ** **
 
+**Tools description**
+
+[CellDesigner](http://www.celldesigner.org/)
+
+CellDesigner is a structured diagram editor for drawing gene-regulatory and biochemical networks. Networks are drawn based on the process diagram, with graphical notation system, and are stored using the Systems Biology Markup Language (SBML), a standard for representing models of biochemical and gene-regulatory networks. Networks are able to link with simulation and other analysis packages through Systems Biology Workbench (SBW).
+
+[PathVisio](http://www.pathvisio.org/) 
+
 **Contacts**
 
 inna.kuperstein@curie.fr
@@ -112,9 +120,3 @@ inna.kuperstein@curie.fr
 emmanuel.barillot@curie.fr
 
 ** **
-
-**Tools description**
-[CellDesigner](http://www.celldesigner.org/)
-CellDesigner is a structured diagram editor for drawing gene-regulatory and biochemical networks. Networks are drawn based on the process diagram, with graphical notation system, and are stored using the Systems Biology Markup Language (SBML), a standard for representing models of biochemical and gene-regulatory networks. Networks are able to link with simulation and other analysis packages through Systems Biology Workbench (SBW).
-
-[PathVisio](http://www.pathvisio.org/) 
