@@ -1,5 +1,5 @@
 **Biological network maps tutorial: from construction to data analysis and applications in research and clinics**
-
+ICSB2016 satelite 
 15 September, Barcelona
 Venue: TBA
 Time: 9.00-19.00
