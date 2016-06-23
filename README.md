@@ -11,9 +11,7 @@
 **Session 1:**** Tools for network construction**
 
 9.00-09.30
-
 Introduction lecture (U. Matsuoka)
-
 9.30-10.30   	
 
 Hands on session (U. Matsuoka / A. Mazein)
@@ -31,9 +29,7 @@ PathVisio (30 min)
 **Session 2:**** Pathway databases and networks resources**
 
 11.00-11.30
-
 Introduction lecture (R. Haw)
-
 11.30-13.30
 
 Hands on session (R. Haw / L. Licata / I. Kuperstein)
