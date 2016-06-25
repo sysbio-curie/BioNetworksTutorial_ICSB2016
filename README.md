@@ -16,9 +16,9 @@ To overcome the robustness of cell signalling network, disease treatment should 
 
 **Learning objective**
 
-1.   Expose the participants to several methodologies of network construction and data analysis in the context of networks.
+1. Expose the participants to several methodologies of network construction and data analysis in the context of networks.
 
-2.   Provide the participants with number of optimized working scenarios that can be directly applied in their own research.
+2. Provide the participants with number of optimized working scenarios that can be directly applied in their own research.
 
 **Intended audience**
 
