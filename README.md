@@ -46,7 +46,7 @@ _*10.30-11.00 Coffee break*_
 
 **Session 2: Pathway databases and networks resources** 
 
-**11.00-11.30** Introduction lecture (R. Haw)
+**11.00-11.30** Introduction lecture (H. Hermjakob)
 
 **11.30-13.30** Hands on session: [Reactome](http://www.reactome.org/) ; [Wiki Pathways](http://www.wikipathways.org/) ; [ACSN](https://acsn.curie.fr/) and [NaviCell](https://navicell.curie.fr/) ; [SIGNOR](https://en.wikipedia.org/wiki/Signor) 
 
@@ -69,7 +69,7 @@ _*10.30-11.00 Coffee break*_
 ** **
 **Downloadable materials**
 
-Participants are encouraged to download didactic materials and install essential software before the tutorial.
+Participants are encouraged to download didactic materials and install essential software before the tutorial. The materials will be available from early September.
 
 ** **
 **Organizing committee**
@@ -80,7 +80,7 @@ Participants are encouraged to download didactic materials and install essential
 
 [Emmanuel Barillot](http://u900.curie.fr)  (Institut Curie - INSERM - Mines ParisTech, Paris, France)
 
-[Robin Haw](http://www.reactome.org) (Ontario Institute for Cancer Research, Toronto, Canada)
+[Henning Hermjakob](http://www.ebi.ac.uk/about/people/henning-hermjakob)  (EMBL-EBI, Hinxton, Cambridge, UK)
 
 [Tom Freeman](http://www.roslin.ed.ac.uk/tom-freeman/) (The Roslin Institute and University of Edinburgh, Edinburgh, UK)
 
@@ -95,6 +95,8 @@ Participants are encouraged to download didactic materials and install essential
 **Contributors**
 
 [Andrei Zinovyev](http://www.ihes.fr/~zinovyev) (Institut Curie - INSERM - Mines ParisTech, Paris, France)
+
+[Robin Haw](http://www.reactome.org) (Ontario Institute for Cancer Research, Toronto, Canada)
 
 [Hiroaki Kitano](http://www.sbi.jp/) (Systems Biology Institute, Tokyo, Japan)
 
